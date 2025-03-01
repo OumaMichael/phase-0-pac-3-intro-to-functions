@@ -1,0 +1,19 @@
+{
+  "name": "phase-0-pac-3-intro-to-functions",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OumaMichael/phase-0-pac-3-intro-to-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OumaMichael/phase-0-pac-3-intro-to-functions/issues"
+  },
+  "homepage": "https://github.com/OumaMichael/phase-0-pac-3-intro-to-functions#readme"
+}
